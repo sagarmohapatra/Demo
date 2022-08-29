@@ -1,1 +1,2 @@
 hi i am learing git hub
+this is first commit
